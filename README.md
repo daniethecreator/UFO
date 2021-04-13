@@ -10,7 +10,7 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-One drawback is the page is now a bit messy with multiple filter buckets next to a large data set with columns.  Althought this allows for more filtering and customization, visually it can be a bit overwhelming. 
+One drawback is the page is now a bit messy with multiple filter buckets next to a large data set with columns.  Althought this allows for more filtering and customization, visually it can be a bit overwhelming. Another drawback is there is no clear data button, you would need to delete the cells manually if you wanted to start a new filter.
 
 One recommendation is to make the process of attaching an event to listen for changes to each filter into a for loop, taking five lines of code and condenseing it to three for a faster process and more efficient code. 
 
