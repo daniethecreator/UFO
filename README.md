@@ -5,7 +5,7 @@
 The purpose of this project was to create a UFO Sighting webpage with a table of sighting data that a user could apply a filter to narrow down the data table on specific criteria such as date, city, state, country, and shape of the UFO.  </br>
 
 ## Results: 
-After reading the body paragaph, a new user to the webpage could scroll down to the Filter Search section in order to narrow down the data table.  First, they could either choose to put a specific date or tab/click to the other filter options. </br> 
+After reading the body paragaph, a new user to the webpage could scroll down to the Filter Search section in order to narrow down the data table.  The filter is case sensititve so make sure to use the same capitilazitaion or uncapitlization in the filter as in the table.  First, you could either choose to put a specific date or tab/click to the other filter options. </br> 
 
 ![Screenshot](https://github.com/daniethecreator/UFO/blob/main/static/images/UFO_ENTER_DATE_FILTER.png)
 
@@ -14,7 +14,7 @@ Next, either clear out the date to only look for city or if the user wants to us
 ![Screenshot](https://github.com/daniethecreator/UFO/blob/main/static/images/UFO_ENTER_CITY_FILTER.png)
 
 
-In the next example below, the date and city boxes have been deleted and the next criteria entered is a state. The filter is case sensititve so make sure to use the same capitilazitaion or uncapitlization in the filter as in the table. In the example below, to filter to the state California, type "ca".  </br>
+In the next example below, the date and city boxes have been deleted and the next criteria entered is a state. To filter to the state California, type "ca".  </br>
 
 ![Screenshot](https://github.com/daniethecreator/UFO/blob/main/static/images/UFO_ENTER_STATE_FILTER_CA.png)
 
