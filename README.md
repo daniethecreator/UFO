@@ -11,11 +11,20 @@ After reading the body paragaph, a new user to webpage could scroll down to the 
 
 Next, either clear out the date to only look for city or if the user wants to use multiple criteria as in the example below, tab down from the date to the Enter City box and type in the city you are looking for </br>
 
+![Screenshot](https://github.com/daniethecreator/UFO/blob/main/static/images/UFO_ENTER_CITY_FILTER.png)
+
+
 In the next example below, the date and city boxes have been deleted and the next criteria entered is a state. The filter is case sensititve so make sure to use the same capitilazitaion or uncapitlization in the filter as in the table. In the example below, to filter to the state California, type "ca".  </br>
+
+![Screenshot](https://github.com/daniethecreator/UFO/blob/main/static/images/UFO_ENTER_STATE_FILTER_CA.png)
 
 Currently, all of the sightings are for the United States, so while filtering down to the "us" is an option, it may not be very useful to find sightings.  </br>
 
+![Screenshot](https://github.com/daniethecreator/UFO/blob/main/static/images/UFO_ENTER_COUNTRY_FILTER_US.png)
+
 And the last criteria that a user is able to filter on either individually or in conjection with other filters, is the shape of the UFO object. The example below shows the data table filtered by a light shape. </br>
+
+![Screenshot](https://github.com/daniethecreator/UFO/blob/main/static/images/UFO_ENTER_SHAPE_FILTER_LIGHT.png)
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
