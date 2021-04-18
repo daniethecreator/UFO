@@ -74,7 +74,7 @@ function updateFilters() {
   }
   
   // 2. Attach an event to listen for changes to each filter
-d3.selectAll("#date").on("change", updateFilters);
+d3.selectAll("#datetime").on("change", updateFilters);
 d3.selectAll("#city").on("change", updateFilters);
 d3.selectAll("#state").on("change", updateFilters);
 d3.selectAll("#country").on("change", updateFilters);
